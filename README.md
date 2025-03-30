@@ -1,1 +1,1 @@
-# Classification-of-Kidney-Diseases.
+# DS_Final_Project
